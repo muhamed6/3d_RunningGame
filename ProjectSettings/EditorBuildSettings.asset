@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: fa5485de46e0e8b4fa14105c6ecd42f5
+  - enabled: 1
+    path: Assets/Scenes/DesertRun.unity
+    guid: ec525951127c94f4c8b0c818cc3b24ed
+  m_configObjects: {}
